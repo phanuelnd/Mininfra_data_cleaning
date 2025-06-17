@@ -1,0 +1,25 @@
+{
+  "provinces": {
+    "City of Kigali": "K"
+  },
+  "districts": {
+    "Gasabo": "G"
+  },
+  "sectors": {
+    "Bumbogo": "B",
+    "Jabana": "J",
+    "Rusororo": "R",
+    "Ndera": "N",
+    "Gikomero": "G",
+    "Kinyinya": "K",
+    "Gatsata": "GA",
+    "Nduba": "ND",
+    "Kimironko": "KI",
+    "Gisozi": "GI",
+    "Kacyiru": "KA",
+    "Remera": "RE",
+    "Jali": "JA",
+    "Kimihurura": "KIM",
+    "Rutunga": "RU"
+  }
+}

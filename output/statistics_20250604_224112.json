@@ -1,0 +1,17 @@
+{
+  "total_buildings": 305,
+  "unique_ids": 305,
+  "duplicates": 0,
+  "by_province": {
+    "City of Kigali": 305
+  },
+  "by_district": {
+    "Gasabo": 305
+  },
+  "coordinate_stats": {
+    "lat_min": -1.98119434,
+    "lat_max": -1.82305055,
+    "lon_min": 29.99543428,
+    "lon_max": 30.27166856
+  }
+}
