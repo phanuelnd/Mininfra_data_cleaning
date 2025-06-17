@@ -1,3 +1,5 @@
 # Ignore large datasets
 Gasabo_buildings.csv
 Gasabo_buildings_with_upi.csv
+duplicated_upi_rows_sample.csv
+*.csv
